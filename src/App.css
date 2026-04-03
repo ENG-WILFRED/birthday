@@ -236,6 +236,16 @@ body {
   font-weight: 500;
 }
 
+/* Signature */
+.signature {
+  font-size: 0.85rem;
+  color: rgba(255, 200, 150, 0.5);
+  margin-top: 1.5rem;
+  animation: fadeUp 0.9s 1.3s both;
+  letter-spacing: 0.1em;
+  font-style: italic;
+}
+
 /* Emoji row */
 .emoji-row {
   display: flex;
